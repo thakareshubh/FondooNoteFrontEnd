@@ -1,0 +1,22 @@
+.RegNext
+{
+    justify-content: space-between;
+}
+.FundooMain
+{
+    display: block;
+    margin: 10px 22%;
+    border: 1px solid rgb(221, 218, 212);
+    padding: 30 px;
+    border-radius: 5px;
+}
+.mainContainer
+{
+    padding: 7%;  
+}
+.RegLeft{
+    margin-left: 15px;
+    height: 400px;
+    margin-top: 20px;
+   
+}

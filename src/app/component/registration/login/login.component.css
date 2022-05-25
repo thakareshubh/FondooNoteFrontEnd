@@ -1,0 +1,18 @@
+.mainLogin{
+    display: block;
+    margin: 20px 31%;
+    border: 1px solid rgb(221, 218, 212);
+    padding: 30px;
+    
+    border-radius: 10px;
+    
+}
+.Lnext{
+    justify-content: space-between;
+    font-size: 30px;
+    padding-left: -20px;
+}
+.Lcontainer
+{
+    padding-bottom: -10%;
+}
